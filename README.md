@@ -25,12 +25,11 @@ Note: For sending notification , You should use the Cloud Messaging at firebase 
 * NESTED LİSTVİEW using (For two listview at same page.)
 * Firebase data writing and reading.
 * Google Admob Ad making.
-* Dynamic background mkaing
+* Dynamic background making
 * CardView library
 * GridView using
 * Adding animation to views ( listview , cardview etc. )
 * LineerLayout and other layouts
-
 * Custom button
 * image reading and writing to firebase database.
 * Class and objects to using data by firebase database.
