@@ -15,6 +15,8 @@ Notification:
 
 Note: For sending notification , You should use the firebase console.
 
+* Splash Screen.
+* Privacy Policy 
 * Animation making.
 * Custom Listview making.
 * Custom Alert Dialog.
@@ -27,6 +29,7 @@ Note: For sending notification , You should use the firebase console.
 * Adding animation to views ( listview , cardview etc. )
 * Custom button
 * image reading and writing to firebase database.
+* 
 
 Admin Panel
 
