@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".enter_things.confirm_email"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+
+    >
+
+
+
+
+    <EditText
+        android:id="@+id/onay_email_edittext"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textColorHint="@color/editText"
+        android:hint="E-mail adresinizi yazınız."
+        android:textColor="@color/editText"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/shape_ediitext"
+        android:layout_marginTop="40dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:gravity="center"
+        android:visibility="invisible"
+
+
+        />
+
+
+
+    <Button
+        android:id="@+id/onay_emaili_gonder_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Onay E-mailimi gönder."
+        android:background="@drawable/shape_ediitext"
+        android:textStyle="bold"
+        android:layout_margin="50dp"
+
+
+        ></Button>
+
+</LinearLayout>

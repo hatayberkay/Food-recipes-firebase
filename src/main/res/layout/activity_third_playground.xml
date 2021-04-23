@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".playground.third_playground"
+    android:orientation="vertical"
+    >
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="-1dp"
+                    android:id="@+id/mesaj_at_imageview"
+                    android:elevation="20dp"
+                    android:src="@drawable/sharing">
+
+                </ImageView>
+
+
+                <ImageView
+                    android:id="@+id/kalem_imageview"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="fitXY"
+                    android:layout_alignParentRight="true"
+                    android:elevation="20dp"
+                    android:src="@drawable/kalem">
+
+                </ImageView>
+
+
+
+                <ImageView
+                    android:id="@+id/third_imageview"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:scaleType="fitXY"
+
+
+                    android:src="@drawable/logom"
+                    ></ImageView>
+
+
+            </RelativeLayout>
+
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/third_textview"
+                android:textStyle="bold"
+                android:text="Bu uygulamanın yapımcısı 'Hatay Berkay Isıkoğlu'dur.
+Youtube kanalında veya instagram üzerinden iletişime geçebilirsiniz."
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+
+                ></TextView>
+
+
+            <ListView
+                android:id="@+id/comment_litview"
+                android:layout_width="match_parent"
+                android:layout_height="450dp"
+                android:nestedScrollingEnabled="true"
+
+                ></ListView>
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+
+<!--<ScrollView
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:text="Neo4j is an open-source graph database (GDB)
+        well suited to connected data. Please mention your exact
+        version of Neo4j when asking questions. You can use it for
+        recommendation engines, fraud detection, graph-based
+        search, network ops/security, and many other user cases.
+        The database is accessed via official drivers in Java,
+         JavaScript, .Python and .NET, or community-contributed
+         drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.
+         Neo4j is an open-source graph database (GDB)
+        well suited to connected data. Please mention your exact
+        version of Neo4j when asking questions. You can use it for
+        recommendation engines, fraud detection, graph-based
+        search, network ops/security, and many other user cases.
+        The database is accessed via official drivers in Java,
+         JavaScript, .Python and .NET, or community-contributed
+         drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.
+         Neo4j is an open-source graph database (GDB)
+        well suited to connected data. Please mention your exact
+        version of Neo4j when asking questions. You can use it for
+        recommendation engines, fraud detection, graph-based
+        search, network ops/security, and many other user cases.
+        The database is accessed via official drivers in Java,
+         JavaScript, .Python and .NET, or community-contributed
+         drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.
+         Neo4j is an open-source graph database (GDB)
+        well suited to connected data. Please mention your exact
+        version of Neo4j when asking questions. You can use it for
+        recommendation engines, fraud detection, graph-based
+        search, network ops/security, and many other user cases.
+        The database is accessed via official drivers in Java,
+         JavaScript, .Python and .NET, or community-contributed
+         drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.
+         Neo4j is an open-source graph database (GDB)
+        well suited to connected data. Please mention your exact
+        version of Neo4j when asking questions. You can use it for
+        recommendation engines, fraud detection, graph-based
+        search, network ops/security, and many other user cases.
+        The database is accessed via official drivers in Java,
+         JavaScript, .Python and .NET, or community-contributed
+         drivers in PHP, Ruby, R, Golang, Elixir, Swift and more.
+
+"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:scrollbars="vertical"
+        android:id="@+id/text"
+
+        ></TextView>
+
+
+    <ListView
+        android:id="@+id/comment_litview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        ></ListView>
+
+
+
+
+
+
+</LinearLayout>
+
+
+</ScrollView>-->
+
+
+
+<!--
+
+-->

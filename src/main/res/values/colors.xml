@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_color">#ffc744</color>
+    <color name="editText">#000</color>
+    <color name="text_beyaz">#FFFFFF</color>
+    <color name="sari">#ffc744</color>
+    <color name="koyu_mavi">#1048E9</color>
+    <color name="second_background">#10A4E9</color>
+
+
+</resources>

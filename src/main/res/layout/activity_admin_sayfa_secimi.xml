@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".admin.admin_sayfa_secimi"
+    android:orientation="vertical"
+    android:background="@color/sari"
+    >
+
+<TextView
+    android:id="@+id/admin_text_textview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Admin Paneli"
+    android:gravity="center"
+    android:textSize="45dp"
+    android:textColor="@color/text_beyaz"
+    android:textStyle="bold"
+    ></TextView>
+
+    <Button
+        android:id="@+id/bir_sayfa_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1.Sayfa"
+        android:background="#E50000"
+        android:textColor="@color/text_beyaz"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+
+        ></Button>
+
+
+    <Button
+        android:id="@+id/iki_sayfa_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2.Sayfa"
+        android:background="#0F9718"
+        android:textColor="@color/text_beyaz"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        ></Button>
+
+
+    <Button
+        android:id="@+id/uc_sayfa_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3.Sayfa"
+        android:background="#18B6C9"
+        android:textColor="@color/text_beyaz"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginRight="90dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        ></Button>
+
+
+
+
+</LinearLayout>

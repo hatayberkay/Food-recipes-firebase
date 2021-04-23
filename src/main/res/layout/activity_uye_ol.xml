@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".enter_things.uye_ol"
+    android:background="@color/background_color"
+    android:orientation="vertical"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/shape_ediitext"
+            android:id="@+id/email_edittext"
+            android:layout_marginTop="10dp"
+            android:hint="E-mail adresinizi giriniz."
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:gravity="center"
+            />
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/shape_ediitext"
+            android:layout_marginTop="10dp"
+            android:id="@+id/sifre_edittext"
+            android:hint="Şifreniz"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:gravity="center"
+            />
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/shape_ediitext"
+            android:layout_marginTop="10dp"
+            android:id="@+id/sifre_tekrar_edittext"
+            android:hint="Şifrenizi tekrar giriniz."
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+            android:gravity="center"
+
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/üye_ol_buttonum"
+            android:text="üye ol"
+            android:layout_marginTop="10dp"
+            android:layout_margin="30dp"
+            android:textColor="#000000"
+            android:background="@drawable/shape_ediitext"
+            />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
