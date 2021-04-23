@@ -16,7 +16,7 @@ Notification:
 Signature things:
 * Reset Password
 
-Note: For sending notification , You should use the firebase console.
+Note: For sending notification , You should use the Cloud Messaging at firebase console .
 
 * Splash Screen.
 * Animation making.
