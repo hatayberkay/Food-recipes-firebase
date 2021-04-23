@@ -40,8 +40,18 @@ Using Admin Panel :
 2) Choose your section: First , Second , Third
 
 * First Section goes to catagory.
-* Second Section goes to food name. 
-* Third Section goes to recipes.
+* Second Section goes to food name. ( Checked with first section datas. )
+* Third Section goes to recipes. ( Checked with first and second section datas. )
+
+Add your content what you want...
+
+Example: You want to add "Burger meat recipe".
+
+Click to third section.
+Select to meet catogoriy. ( İf you added. )
+Select to burger name. ( İf you added.)
+Past your recipe to edittext. And It's Done.
+
 
 
 
