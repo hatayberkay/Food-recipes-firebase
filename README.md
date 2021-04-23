@@ -16,7 +16,6 @@ Notification:
 Note: For sending notification , You should use the firebase console.
 
 * Splash Screen.
-* Privacy Policy 
 * Animation making.
 * Custom Listview making.
 * Custom Alert Dialog.
@@ -38,12 +37,17 @@ Admin Panel
 Using Admin Panel :
 
 1) Click to button.
-2) Check k
+2) Choose your section: First , Second , Third
+
+* First Section goes to catagory.
+* Second Section goes to food name. 
+* Third Section goes to recipes.
+
 
 
 Traditinally, Firebase projects does not need to add mobile Admin Panel. But, I added an one. Because , I do not want to open Firebase Project at web adress. So, I wrote an Admin Panel for adding texts and images to control all my content that in my mobile app.
 
-You can see , "hatayberkay1234@gmail.com" that gmail account is mine. When I come in my mobile app. My app will be recognize me. After that , show me a litle button to making new content. ( I do not have to upload new Signed APK to Google Play. )
+You can see , "hatayberkay1234@gmail.com" that gmail account is mine. When I come in my mobile app. My app will be recognize me. After that , show me a litle button to making new content. ( I do not have to upload new Signed APK to Google Play. ) You change this address to yours.
 
 
 
