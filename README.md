@@ -29,6 +29,7 @@ Note: For sending notification , You should use the Cloud Messaging at firebase 
 * CardView library
 * GridView using
 * Adding animation to views ( listview , cardview etc. )
+* LineerLayout and other layouts
 
 * Custom button
 * image reading and writing to firebase database.
