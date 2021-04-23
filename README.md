@@ -13,6 +13,9 @@ Signin ways:
 Notification:
 * You can learn how to make notification using java side. 
 
+Signature things:
+* Reset Password
+
 Note: For sending notification , You should use the firebase console.
 
 * Splash Screen.
@@ -28,7 +31,18 @@ Note: For sending notification , You should use the firebase console.
 * Adding animation to views ( listview , cardview etc. )
 * Custom button
 * image reading and writing to firebase database.
-* 
+* Class and objects to using data by firebase database.
+* Comment to content. ( Card View using )
+* Listview
+* And other Android things...
+
+
+User Help Panel:
+
+* Our users can easly acces to us for feedback. 
+
+
+
 
 Admin Panel
 
@@ -51,9 +65,6 @@ Click to third section.
 Select to meet catogoriy. ( İf you added. )
 Select to burger name. ( İf you added.)
 Past your recipe to edittext. And It's Done.
-
-
-
 
 Traditinally, Firebase projects does not need to add mobile Admin Panel. But, I added an one. Because , I do not want to open Firebase Project at web adress. So, I wrote an Admin Panel for adding texts and images to control all my content that in my mobile app.
 
