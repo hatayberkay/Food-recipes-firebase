@@ -29,6 +29,7 @@ Note: For sending notification , You should use the Cloud Messaging at firebase 
 * CardView library
 * GridView using
 * Adding animation to views ( listview , cardview etc. )
+
 * Custom button
 * image reading and writing to firebase database.
 * Class and objects to using data by firebase database.
@@ -70,6 +71,11 @@ Past your recipe to edittext. And It's Done.
 Traditinally, Firebase projects does not need to add mobile Admin Panel. But, I added an one. Because , I do not want to open Firebase Project at web adress. So, I wrote an Admin Panel for adding texts and images to control all my content that in my mobile app.
 
 You can see , "hatayberkay1234@gmail.com" that gmail account is mine. When I come in my mobile app. My app will be recognize me. After that , show me a litle button to making new content. ( I do not have to upload new Signed APK to Google Play. ) You change this address to yours.
+
+
+
+![splash](https://user-images.githubusercontent.com/35609292/115890177-5468cc00-a45d-11eb-9b85-d1bed305908f.png)![enter](https://user-images.githubusercontent.com/35609292/115890320-7e21f300-a45d-11eb-80a2-9e92210147b9.png)![food category](https://user-images.githubusercontent.com/35609292/115890689-dfe25d00-a45d-11eb-82af-6bd811c1700d.png)![second_food_name](https://user-images.githubusercontent.com/35609292/115890861-16b87300-a45e-11eb-89bc-2798c21ec04b.png)
+![third_recipes](https://user-images.githubusercontent.com/35609292/115890989-3cde1300-a45e-11eb-833d-dd663ec12dde.png)![recipes_down_comment](https://user-images.githubusercontent.com/35609292/115891185-79117380-a45e-11eb-86b5-5b48784788d4.png)![registration](https://user-images.githubusercontent.com/35609292/115891384-b1b14d00-a45e-11eb-8838-60054c512d13.png)![reset_password](https://user-images.githubusercontent.com/35609292/115891528-d9a0b080-a45e-11eb-92df-cc1e6de929e9.png)![admin_select_panel](https://user-images.githubusercontent.com/35609292/115891936-56cc2580-a45f-11eb-86a8-99ea4e964b31.png)![first_admin_panel](https://user-images.githubusercontent.com/35609292/115892381-c3dfbb00-a45f-11eb-9913-54ddd7fea194.png)![admin_panel_second](https://user-images.githubusercontent.com/35609292/115892530-e83b9780-a45f-11eb-9304-b237c7ff315b.png)![admin_third_panel](https://user-images.githubusercontent.com/35609292/115892635-030e0c00-a460-11eb-9ea0-d7a7dd3c4e32.png)
 
 
 
