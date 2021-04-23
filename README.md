@@ -32,14 +32,15 @@ Note: For sending notification , You should use the firebase console.
 * Custom button
 * image reading and writing to firebase database.
 * Class and objects to using data by firebase database.
-* Comment to content. ( Card View using )
+* Comment to content. ( Card View using ) Also, Our users can comment our connect with her name.
 * Listview
+* Users can take special name and comment our content.
 * And other Android things...
 
 
 User Help Panel:
 
-* Our users can easly acces to us for feedback. 
+* Our users can easly access to us for feedback with e-mail. 
 
 
 
